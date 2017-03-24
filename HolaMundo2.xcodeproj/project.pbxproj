@@ -286,6 +286,7 @@
 				ECAD9BEC1E7F057C006C8A91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
